@@ -21,7 +21,7 @@ Projeyi bilgisayarınıza klonlayın ve gerekli kütüphaneleri yükleyin.
 
 1.  **Projeyi İndirin:**
     ```bash
-  
+      https://github.com/onurilaslan/YOLO-Speed-LPR-System.git
     cd GhostRadar-AI
     ```
 
@@ -72,7 +72,7 @@ python main.py
 
 1.  **Clone the repository:**
     ```bash
-  
+      https://github.com/onurilaslan/YOLO-Speed-LPR-System.git
     cd GhostRadar-AI
     ```
 
