@@ -1,3 +1,5 @@
+![alt text](https://i.ibb.co/Tx2TwfGm/Ekran-Resmi-2025-11-27-22-39-19.png "IMG")
+
 # 🚗 GhostRadar-AI: Traffic Speed & License Plate Detection
 
 Bu proje, **OpenCV**, **YOLOv8** ve **EasyOCR** teknolojilerini kullanarak video görüntüleri üzerinden gerçek zamanlı trafik analizi yapar. Araçları tespit eder, hızlarını hesaplar ve plakalarını okur. "Hayalet Mod (Ghost Mode)" sayesinde ekranda gereksiz çerçeveler (bounding box) oluşturmadan sadece verileri görselleştirir.
